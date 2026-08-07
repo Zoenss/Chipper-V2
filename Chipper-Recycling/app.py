@@ -8,4 +8,4 @@ st.set_page_config(
     initial_sidebar_state="collapsed",
 )
 
-st.switch_page("pages/01_Home.py")
+st.switch_page("pages/01_home.py")
