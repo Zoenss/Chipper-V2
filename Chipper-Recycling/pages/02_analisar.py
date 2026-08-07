@@ -931,7 +931,7 @@ with col_voltar:
         st.session_state.pop("aparelho", None)
         st.session_state.pop("peso", None)
 
-        st.switch_page("pages/01_Home.py")
+        st.switch_page("pages/01_home.py")
 
 with col_exportar:
     st.button(
