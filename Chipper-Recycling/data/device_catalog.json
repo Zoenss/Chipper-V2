@@ -1,0 +1,235 @@
+{
+  "Samsung Galaxy M55 5G": {
+    "fabricante": "Samsung",
+    "categoria": "Smartphone",
+    "peso_medio": 180,
+    "materiais": {
+      "Aluminio": 18,
+      "Cobre": 14,
+      "Ouro": 0.034,
+      "Prata": 0.25,
+      "Litio": 4.3
+    }
+  },
+
+  "Samsung Galaxy A54": {
+    "fabricante": "Samsung",
+    "categoria": "Smartphone",
+    "peso_medio": 202,
+    "materiais": {
+      "Aluminio": 20,
+      "Cobre": 15,
+      "Ouro": 0.036,
+      "Prata": 0.28,
+      "Litio": 4.5
+    }
+  },
+
+  "Samsung Galaxy S24": {
+    "fabricante": "Samsung",
+    "categoria": "Smartphone",
+    "peso_medio": 167,
+    "materiais": {
+      "Aluminio": 17,
+      "Cobre": 13,
+      "Ouro": 0.035,
+      "Prata": 0.24,
+      "Litio": 4.2
+    }
+  },
+
+  "Motorola Moto G84": {
+    "fabricante": "Motorola",
+    "categoria": "Smartphone",
+    "peso_medio": 166,
+    "materiais": {
+      "Aluminio": 16,
+      "Cobre": 12,
+      "Ouro": 0.031,
+      "Prata": 0.22,
+      "Litio": 4.0
+    }
+  },
+
+  "Motorola Edge 50": {
+    "fabricante": "Motorola",
+    "categoria": "Smartphone",
+    "peso_medio": 180,
+    "materiais": {
+      "Aluminio": 18,
+      "Cobre": 14,
+      "Ouro": 0.033,
+      "Prata": 0.23,
+      "Litio": 4.4
+    }
+  },
+
+  "iPhone 13": {
+    "fabricante": "Apple",
+    "categoria": "Smartphone",
+    "peso_medio": 174,
+    "materiais": {
+      "Aluminio": 18,
+      "Cobre": 13,
+      "Ouro": 0.036,
+      "Prata": 0.26,
+      "Litio": 4.2
+    }
+  },
+
+  "iPhone 15": {
+    "fabricante": "Apple",
+    "categoria": "Smartphone",
+    "peso_medio": 171,
+    "materiais": {
+      "Aluminio": 17,
+      "Cobre": 13,
+      "Ouro": 0.037,
+      "Prata": 0.27,
+      "Litio": 4.3
+    }
+  },
+
+  "Xiaomi Redmi Note 13": {
+    "fabricante": "Xiaomi",
+    "categoria": "Smartphone",
+    "peso_medio": 188,
+    "materiais": {
+      "Aluminio": 18,
+      "Cobre": 14,
+      "Ouro": 0.033,
+      "Prata": 0.24,
+      "Litio": 4.5
+    }
+  },
+
+  "POCO X6 Pro": {
+    "fabricante": "Xiaomi",
+    "categoria": "Smartphone",
+    "peso_medio": 190,
+    "materiais": {
+      "Aluminio": 19,
+      "Cobre": 15,
+      "Ouro": 0.034,
+      "Prata": 0.25,
+      "Litio": 4.6
+    }
+  },
+
+  "Dell Inspiron 15": {
+    "fabricante": "Dell",
+    "categoria": "Notebook",
+    "peso_medio": 1650,
+    "materiais": {
+      "Aluminio": 260,
+      "Cobre": 75,
+      "Ouro": 0.30,
+      "Prata": 1.5,
+      "Litio": 42
+    }
+  },
+
+  "Dell Latitude 5420": {
+    "fabricante": "Dell",
+    "categoria": "Notebook",
+    "peso_medio": 1400,
+    "materiais": {
+      "Aluminio": 220,
+      "Cobre": 70,
+      "Ouro": 0.28,
+      "Prata": 1.3,
+      "Litio": 40
+    }
+  },
+
+  "Lenovo IdeaPad 3": {
+    "fabricante": "Lenovo",
+    "categoria": "Notebook",
+    "peso_medio": 1650,
+    "materiais": {
+      "Aluminio": 210,
+      "Cobre": 72,
+      "Ouro": 0.29,
+      "Prata": 1.4,
+      "Litio": 41
+    }
+  },
+
+  "HP 250 G8": {
+    "fabricante": "HP",
+    "categoria": "Notebook",
+    "peso_medio": 1740,
+    "materiais": {
+      "Aluminio": 215,
+      "Cobre": 74,
+      "Ouro": 0.30,
+      "Prata": 1.5,
+      "Litio": 43
+    }
+  },
+
+  "MacBook Air M2": {
+    "fabricante": "Apple",
+    "categoria": "Notebook",
+    "peso_medio": 1240,
+    "materiais": {
+      "Aluminio": 420,
+      "Cobre": 58,
+      "Ouro": 0.31,
+      "Prata": 1.6,
+      "Litio": 38
+    }
+  },
+
+  "iPad 10ª Geração": {
+    "fabricante": "Apple",
+    "categoria": "Tablet",
+    "peso_medio": 477,
+    "materiais": {
+      "Aluminio": 110,
+      "Cobre": 22,
+      "Ouro": 0.08,
+      "Prata": 0.6,
+      "Litio": 12
+    }
+  },
+
+  "Galaxy Tab S9": {
+    "fabricante": "Samsung",
+    "categoria": "Tablet",
+    "peso_medio": 498,
+    "materiais": {
+      "Aluminio": 115,
+      "Cobre": 23,
+      "Ouro": 0.09,
+      "Prata": 0.7,
+      "Litio": 13
+    }
+  },
+
+  "PlayStation 5": {
+    "fabricante": "Sony",
+    "categoria": "Console",
+    "peso_medio": 4500,
+    "materiais": {
+      "Aluminio": 720,
+      "Cobre": 310,
+      "Ouro": 0.65,
+      "Prata": 3.5,
+      "Litio": 0
+    }
+  },
+
+  "Xbox Series X": {
+    "fabricante": "Microsoft",
+    "categoria": "Console",
+    "peso_medio": 4450,
+    "materiais": {
+      "Aluminio": 690,
+      "Cobre": 300,
+      "Ouro": 0.62,
+      "Prata": 3.3,
+      "Litio": 0
+    }
+  }
+}

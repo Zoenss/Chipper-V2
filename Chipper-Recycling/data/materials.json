@@ -1,0 +1,10 @@
+{
+    "Ouro": {
+        "descricao": "Metal precioso utilizado em conectores.",
+        "reciclavel": true
+    },
+    "Cobre": {
+        "descricao": "Utilizado em trilhas e bobinas.",
+        "reciclavel": true
+    }
+}
